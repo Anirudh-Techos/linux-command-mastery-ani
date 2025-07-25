@@ -1,3 +1,5 @@
+![Linux Command Mastery Banner](./linux_banner.png)
+
 # Linux Command Mastery – Ani's DevOps Toolbox
 
 Welcome to my personal command reference project.  
